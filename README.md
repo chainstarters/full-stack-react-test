@@ -10,7 +10,7 @@ A checkpoint is usually a public park or famous building.
 
 For some users, depending on where they live, the checkpoint might be far away from their home, or close-by. We want to be fair and give rewards to users based on how far they had to travel in order to complete the game.
 
-![](/map_example.png){:height="400px" width="255px"}
+<img src="/map_example.png" width="50%">
 
 ### Need
 
