@@ -10,6 +10,8 @@ A checkpoint is usually a public park or famous building.
 
 For some users, depending on where they live, the checkpoint might be far away from their home, or close-by. We want to be fair and give rewards to users based on how far they had to travel in order to complete the game.
 
+![](/map_example.png)
+
 ### Need
 
 We need to estimate the total distance traveled. Assume they will go from home to the checkpoint and back home again.
