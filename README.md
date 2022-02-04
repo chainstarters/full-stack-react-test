@@ -16,7 +16,7 @@ For some users, depending on where they live, the checkpoint might be far away f
 
 We need to estimate the total distance traveled. Assume they will go from home to the checkpoint and back home again.
 
-We need our database to give each user an integral ranking between 1-10 based on how far they must travel compared to the shortest and longest travel distance.
+We need our database to give each user an integer rank between 1-10 based on how far they must travel compared to the shortest and longest travel distance.
 
 We need to show each user how far each checkpoint is from where they are.
 
